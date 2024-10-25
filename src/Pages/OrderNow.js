@@ -34,7 +34,7 @@ const OrderNow = () => {
     
         const encodedMessage = encodeURIComponent(message);
     
-        const whatsappLink = `https://wa.me/923110068507?text=${encodedMessage}`;
+        const whatsappLink = `https://wa.me/923164402059?text=${encodedMessage}`;
     
         window.open(whatsappLink, '_blank');
     
